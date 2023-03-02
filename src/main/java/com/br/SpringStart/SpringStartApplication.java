@@ -1,4 +1,4 @@
-package com.br.bookDetails;
+package com.br.SpringStart;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
